@@ -27,7 +27,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('https://corp.smartbrief.com/wp-content/uploads/2020/07/AdobeStock_331489342-scaled.jpeg') no-repeat;
+  background: url('https://cdn.pixabay.com/photo/2016/12/29/18/44/background-1939128_960_720.jpg') no-repeat;
   background-size: cover;
   background-position:center;
 
@@ -94,3 +94,14 @@ body {
 }
 
 
+.subf { 
+  font-size: 150%;
+  font-weight: 700;
+  font-style: italic;
+  color: goldenrod;
+  
+
+
+
+  
+}
