@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-=======
 
 
 
->>>>>>> e34d415280610e157b5e86fb273872f9be1a4013
 * {
     margin: 0;
     padding: 0;
@@ -31,11 +28,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-<<<<<<< HEAD
   background: url('https://cdn.pixabay.com/photo/2016/12/29/18/44/background-1939128_960_720.jpg') no-repeat;
-=======
-  background: url('https://corp.smartbrief.com/wp-content/uploads/2020/07/AdobeStock_331489342-scaled.jpeg') no-repeat;
->>>>>>> e34d415280610e157b5e86fb273872f9be1a4013
   background-size: cover;
   background-position:center;
 
@@ -82,7 +75,6 @@ body {
 }
 
 
-<<<<<<< HEAD
 .subf { 
   font-size: 150%;
   font-weight: 700;
@@ -95,13 +87,9 @@ body {
   
 }
 
-
-.title{ 
-
-  color: #fff;
-  
+.title{
+  color:#fff;
 
 
 }
-=======
->>>>>>> e34d415280610e157b5e86fb273872f9be1a4013
+
